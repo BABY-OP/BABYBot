@@ -1,6 +1,6 @@
 {
-  "name": "W2HBot",
-  "description": "The best userbot made by @david99q. Made with Love... ❤ For Support Join @W2H_Userbot ",
+  "name": "BABYBot",
+  "description": "The best userbot made by @Murat_30_God. Made with Love... ❤ For Support Join @BABY_Userbot ",
   "logo": "https://telegra.ph/file/cee753391111580ae8a0c.jpg",
     "keywords": [
     "telegram",
@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/W2HGalaxy-OP/W2HBot/",
-  "website": "https://github.com/W2HGalaxy-OP/W2HBot/",
-  "success_url": "https://t.me/W2HUserbot",
+  "repository": "https://github.com/BABY-OP/BABYBot/",
+  "website": "https://github.com/BABY-OP/BABYBot/",
+  "success_url": "https://t.me/BABYUserbot",
   "env": {
     "ENV": {
       "description": "Set this to ANYTHING will enable heroku.",
@@ -24,12 +24,12 @@
     },
     "ALIVE_NAME": {
       "description": "Fill your Full name. By default it is W2H User",
-      "value": "W2H User",
+      "value": "BABY User",
       "required": false
     },
     "ALIVE_MSG": {
       "description": "Set Custom Alive Message When entering .W2H Command.",
-      "value": "Legend's W2HBot Is Alive",
+      "value": "Legend's BABYBot Is Alive",
       "required": false
     },
     "ALIVE_PIC": {
@@ -39,7 +39,7 @@
     },
     "BIO_MSG": {
       "description": "Put Your Telegram Bio Here Required For Auto Bio.",
-      "value": "I am a legend. Bcoz i am W2H User",
+      "value": "I am a legend. Bcoz i am BABY User",
       "required": false
     },
     "PMPERMIT_PIC": {
