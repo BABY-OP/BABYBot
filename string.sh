@@ -16,15 +16,9 @@
 
 
 echo """
-┏━━━┓          ┏┓    ┏┓
-┃┏━┓┃          ┃┃   ┏┛┗┓
-┃┃ ┃┣┓┏┳━┳━━┳┓┏┫┗━┳━┻┓┏┛
-┃┗━┛┃┃┃┃┏┫┏┓┣╋╋┫┏┓┃┏┓┃┃
-┃┏━┓┃┗┛┃┃┃┏┓┣╋╋┫┗┛┃┗┛┃┗┓
-┗┛ ┗┻━━┻┛┗┛┗┻┛┗┻━━┻━━┻━┛
 
-Legendary W2HBot
-@W2HSupport
+Legendary BABYBot
+@BABYSupport
 """
 
 python3 string_session.py
