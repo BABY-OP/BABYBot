@@ -1,4 +1,4 @@
-<h1 align="center">⚡ 𝕎𝟚ℍ𝔹𝕠𝕥 ⚡</h1>
+<h1 align="center">⚡ BABY𝔹𝕠𝕥 ⚡</h1>
 
 
 <h2>This is a userbot made for telegram. I made this userbot with help of all other userbots available in telegram. All credits goes to its Respective Owners.
@@ -16,7 +16,7 @@ This is the one and only official W2HBot Userbot made by @David99q. Don't forget
 
 <h3> DEPLOY TO HEROKU </h3>
 
-<a href="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FW2HGalaxy-OP%2FW2HBot&template=https%3A%2F%2Fgithub.com%2FW2HGalaxy-OP%2FW2HBot" rel="nofollow" style="background-color: initial; box-sizing: border-box; color: #0366d6; text-decoration-line: none;"><img alt="Deploy" data-canonical-src="https://www.herokucdn.com/deploy/button.svg" src="https://camo.githubusercontent.com/83b0e95b38892b49184e07ad572c94c8038323fb/68747470733a2f2f7777772e6865726f6b7563646e2e636f6d2f6465706c6f792f627574746f6e2e737667" style="border-style: none; box-sizing: initial; max-width: 100%;" /></a></div>
+<a href="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FBABY-OP%2FBABYBot&template=https%3A%2F%2Fgithub.com%2FBABY-OP%2FBABYBot" rel="nofollow" style="background-color: initial; box-sizing: border-box; color: #0366d6; text-decoration-line: none;"><img alt="Deploy" data-canonical-src="https://www.herokucdn.com/deploy/button.svg" src="https://camo.githubusercontent.com/83b0e95b38892b49184e07ad572c94c8038323fb/68747470733a2f2f7777772e6865726f6b7563646e2e636f6d2f6465706c6f792f627574746f6e2e737667" style="border-style: none; box-sizing: initial; max-width: 100%;" /></a></div>
 </a>
 
 <h3> StringSession </h3>
@@ -30,7 +30,7 @@ This is the one and only official W2HBot Userbot made by @David99q. Don't forget
     - String will be saved in your Saved Message.
 
 
-<h1 align="center">TO HOST 𝕎𝟚ℍ𝔹𝕠𝕥 LOCALLY OR ON ANY OTHER VPS CLICK BELOW</h1>
+<h1 align="center">TO HOST BABY𝔹𝕠𝕥 LOCALLY OR ON ANY OTHER VPS CLICK BELOW</h1>
 
 <h2 align="center"> <a href="https://github.com/W2HGalaxy-OP/W2HUserbot">⚡ 𝕎 𝟚 ℍ 𝕌 𝕊 𝔼 ℝ 𝔹 𝕆 𝕋  ⚡</a></h2>
 
@@ -53,19 +53,19 @@ This is the one and only official W2HBot Userbot made by @David99q. Don't forget
 ```
 Get help regarding setting up 
 
-your W2HBot in our official 
+your BABYBot in our official 
 
 support Group and get updates
 
 notifications in Update Channel.
 ```
 
-<a href="https://t.me/W2H_Userbot"><img src="https://img.shields.io/badge/Join-Support%20Channel-red.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/BABY_Userbot"><img src="https://img.shields.io/badge/Join-Support%20Channel-red.svg?style=for-the-badge&logo=Telegram"></a>
 
-<a href="https://t.me/W2HSupport"><img src="https://img.shields.io/badge/Join-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/BABYSupport"><img src="https://img.shields.io/badge/Join-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
 
-[![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/David99q)
+[![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/Murat_30_God)
 
 
 <details>
@@ -74,9 +74,9 @@ notifications in Update Channel.
 
 ![](https://www.gnu.org/graphics/gplv3-or-later.png)
 
-Copyright (C) 2021 W2HGalaxy-OP
+Copyright (C) 2021 BABY-OP
 
-Poject [W2HBot](https://github.com/W2HGalaxy-OP/W2HBot) is free software: you can redistribute it and/or modify
+Poject [BABYBot](https://github.com/BABY-OP/BABYBot) is free software: you can redistribute it and/or modify
 
 it under the terms of the GNU General Public License as published by
 
