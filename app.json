@@ -23,17 +23,17 @@
       "required": false
     },
     "ALIVE_NAME": {
-      "description": "Fill your Full name. By default it is W2H User",
+      "description": "Fill your Full name. By default it is BABY User",
       "value": "BABY User",
       "required": false
     },
     "ALIVE_MSG": {
-      "description": "Set Custom Alive Message When entering .W2H Command.",
+      "description": "Set Custom Alive Message When entering .BABY Command.",
       "value": "Legend's BABYBot Is Alive",
       "required": false
     },
     "ALIVE_PIC": {
-      "description": "Put here any telegraph media link for alive pic in .W2H command.",
+      "description": "Put here any telegraph media link for alive pic in .BABY command.",
       "value": "https://telegra.ph/file/cee753391111580ae8a0c.jpg",
       "required": false
     },
