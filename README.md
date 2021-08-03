@@ -3,9 +3,9 @@
 
 <h2>This is a userbot made for telegram. I made this userbot with help of all other userbots available in telegram. All credits goes to its Respective Owners.
 
-This is the one and only official W2HBot Userbot made by @David99q. Don't forget to star this repo if you liked it. Enjoy Your Bot!!💝</h2>
+This is the one and only official BABYBot Userbot made by @David99q. Don't forget to star this repo if you liked it. Enjoy Your Bot!!💝</h2>
 
-[![W2HBot logo](https://telegra.ph/file/7a288583a47e08a6098b3.jpg)](https://t.me/W2H_Userbot)
+[![BABYBot logo](https://telegra.ph/file/1f74b9c7199426ec247c8.jpg)](https://t.me/BABY_Userbot)
 
 <h2 align="center">The owner would not be responsible for any kind of bans due to the bot.</h2>
 
